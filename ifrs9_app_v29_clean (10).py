@@ -1,3 +1,4 @@
+pip install plotly
 #!/usr/bin/env python3
 """IFRS 9 — Staging Dynamique Avancé v2 | Forvis Mazars"""
 import io, warnings
